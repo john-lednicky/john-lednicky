@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning the node ecosystem for web development. 
 
-✨ This month I'm deep into using OAuth/OIDC for API authorization.
+✨ This month I'm working on a React front end.
 
 
 
