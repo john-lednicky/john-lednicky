@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning the node ecosystem for web development. 
 
-✨ This month I'm working through the U of Helskinki's open course "Full Stack open 2021: Deep Dive Into Modern Web Development." ( https://fullstackopen.com/en/ )
+✨ This month I'm working through the U of Helsinki's "Full Stack open 2021: Deep Dive Into Modern Web Development." ( https://fullstackopen.com/en/ )
 
 
 
