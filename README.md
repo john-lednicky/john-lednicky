@@ -1,6 +1,6 @@
 👋 Hi, I’m @john-lednicky ( https://www.linkedin.com/in/john-lednicky/ )
 
-✨ I found work and now don't have much time to personal projects :(
+✨ I found work and now don't have much time for personal projects :(
 
 
 <!---
