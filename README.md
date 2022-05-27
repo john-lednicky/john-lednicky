@@ -1,7 +1,6 @@
 👋 Hi, I’m @john-lednicky ( https://www.linkedin.com/in/john-lednicky/ )
 
-✨ This month I'm looking for work.
-
+✨ I found work and now don't have much time to personal projects :(
 
 
 <!---
